@@ -9,7 +9,7 @@ body {
 header {
   background-color: #3e678c;
   color: white;
-  padding: 1rem;
+  padding: 0.5rem;
   text-align: center;
   position: relative;
 }
@@ -30,7 +30,7 @@ nav {
 }
 
 main {
-  padding: 1rem;
+  padding: 2rem;
   max-width: 900px;
   margin: auto;
   background-color: white;
