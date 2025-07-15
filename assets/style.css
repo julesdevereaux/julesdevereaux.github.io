@@ -117,3 +117,20 @@ a:visited {
 .dropdown:hover .dropdown-menu {
   display: block;
 }
+
+@media (max-width: 600px) {
+  body {
+    font-size: 16px;
+    padding: 10px;
+  }
+  /* Example: Make images scale to fit */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  /* Example: Stack columns vertically */
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
