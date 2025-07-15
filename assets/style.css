@@ -54,8 +54,6 @@ a:visited {
   color: #000000; /* Same as normal link color */
 }
 
-<p style="line-height: 1.5;">
-
 .menu li::after {
   content: " •";  /* The space before the dot adds spacing */
   color: #ffffff;    /* Optional: style the dot color */
