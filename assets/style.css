@@ -133,6 +133,24 @@ a:visited {
     width: 100%;
     display: block;
   }
+  
+  header {
+    padding: 12px 0;
+  }
+
+  header h1 {
+    font-size: 1.4rem;
+  }
+
+  .nav li,
+  .nav .dropdown {
+    font-size: 0.95rem;
+  }
+
+  .dot {
+    font-size: 1rem;
+    margin: 0 2px;
+  }
 }
 
 .container {
