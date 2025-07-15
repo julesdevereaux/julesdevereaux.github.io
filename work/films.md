@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Films
-permalink: /work/films.md
+permalink: /work/films.md/
 ---
 
 ## Films
