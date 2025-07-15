@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Plays
-permalink: /work/plays.md
+permalink: /work/plays.md/
 ---
 
 ## Plays
