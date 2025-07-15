@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Books
 permalink: /work/books.md/
 ---
 
