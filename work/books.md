@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Books
-permalink: /work/books.md
+permalink: /work/books.md/
 ---
 
 ## Book Projects
