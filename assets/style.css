@@ -56,6 +56,16 @@ a:visited {
 
 <p style="line-height: 1.5;">
 
+.menu li::after {
+  content: " •";  /* The space before the dot adds spacing */
+  color: #ffffff;    /* Optional: style the dot color */
+  font-size: 1.2em; /* Optional: adjust dot size */
+}
+
+.menu li:last-child::after {
+  content: "";    /* No dot after the last item */
+}
+
 /* =============== */
 /* Dropdown Styles */
 /* =============== */
