@@ -4,6 +4,5 @@ title: Plays
 permalink: /work/plays.md/
 ---
 
-## Plays
-
-This is the content for Plays.
+## Assigned Seats
+Passengers fight for seats on an airplane as life happens around them.
