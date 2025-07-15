@@ -54,21 +54,16 @@ a:visited {
   color: #000000; /* Same as normal link color */
 }
 
-.header-menu {
+.menu {
   display: flex;
-  align-items: center; /* Vertically centers items */
-  list-style: none;    /* Removes default bullets */
-  padding: 0;
-  margin: 0;
+  align-items: center; /* This centers everything vertically */
+  gap: 0.5em; /* Optional: space between items */
 }
 
-.menu-dot {
-  font-size: 1.2em;      /* Adjust size as needed */
-  color: #777;           /* Choose a color for your dot */
-  padding: 0 10px;       /* Horizontal spacing */
-  pointer-events: none;  /* Makes sure it's not clickable */
-  user-select: none;     /* Prevents text selection */
-  line-height: 1;        /* Ensures vertical centering */
+.dot {
+  font-size: 1.2em; /* Adjust as needed */
+  line-height: 1;
+  vertical-align: middle;
 }
 
 /* =============== */
